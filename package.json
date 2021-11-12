@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "build": "sanity-template build",
+    "dev": "lerna run dev --parallel"
+  },
   "dependencies": {
+    "lerna": "^4.0.0",
     "sanity-template": "^2.4.3"
   }
 }
