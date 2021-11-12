@@ -1,0 +1,5 @@
+.DS_Store
+/build
+/node_modules
+/dev
+template-values-development.json
